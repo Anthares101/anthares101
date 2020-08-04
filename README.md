@@ -66,7 +66,7 @@ I study Computer Science Engineering at Córdoba University. I am a member of th
 
 ## My Github Stats :cyclone:
 
-![susomejias Github Stats](https://github-readme-stats.vercel.app/api?username=anthares101&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=merko&bg_color=FFF&text_color=455a64&hide_title=true&line_height=40)
+![anthares101 Github Stats](https://github-readme-stats.vercel.app/api?username=anthares101&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=merko&bg_color=FFF&text_color=455a64&hide_title=true&line_height=40)
 
 <!--
 **anthares101/anthares101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
