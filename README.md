@@ -46,8 +46,8 @@ I study Computer Science Engineering at Córdoba University. I am a member of th
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Terminal</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+          <span><b>Bash</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
          <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
