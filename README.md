@@ -1,5 +1,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Anthares101-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Anthares101)](https://twitter.com/Anthares101)
-[![Linkedin Badge](https://img.shields.io/badge/angelherediaperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelherediaperez/)](https://www.linkedin.com/in/angelherediaperez/)
+[![Linkedin Badge](https://img.shields.io/badge/angelherediaperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelherediaperez)](https://www.linkedin.com/in/angelherediaperez)
+
+<img height="100px" src="https://cdn.svgporn.com/logos/github-icon.svg">
 
 ## Hello all 👋
 I study Computer Science Engineering at Córdoba University. I am a member of the Free Software Group, possibly the best thing I have done in my career. I love cybersecurity (im on it) and development, especially videogames, although I am always open to other areas such as numerical analysis or AI. 
@@ -44,8 +46,8 @@ I study Computer Science Engineering at Córdoba University. I am a member of th
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Jira</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/jira.svg">
+          <span><b>Terminal</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
          <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
