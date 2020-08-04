@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Twitter Badge](https://img.shields.io/badge/-@Anthares101-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Anthares101)](https://twitter.com/Anthares101)
+[![Linkedin Badge](https://img.shields.io/badge/angelherediaperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelherediaperez/)](https://www.linkedin.com/in/angelherediaperez/)
+
+## My Github Stats 🎉
+
+![susomejias Github Stats](https://github-readme-stats.vercel.app/api?username=anthares101&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=merko&bg_color=FFF&text_color=455a64&hide_title=true&line_height=40)
 
 <!--
 **anthares101/anthares101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
