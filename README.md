@@ -11,51 +11,51 @@ I study Computer Science Engineering at Córdoba University. I am a member of th
 <table>
   <tbody>
     <tr valign="top">
-      <td width="30%" align="center" style="padding-bottom:3rem">
+      <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>Linux</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
         <br/><br/>
       </td>
-      <td width="30%" align="center" style="padding-bottom:3rem">
+      <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>Typescript</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
         <br/><br/>
       </td>
-      <td width="30%" align="center" style="padding-bottom:3rem">
+      <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>React.js</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
         <br/><br/>
       </td>
     </tr>
     <tr valign="top">
-      <td width="30%" align="center" style="padding-bottom:3rem">
+      <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>Next.js</b></span><br/><br/><br/>
          <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
          <br/><br/>
       </td>
-      <td width="30%" align="center" style="padding-bottom:3rem">
+      <td width="25%" align="center" style="padding-bottom:3rem">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         <br/><br/>
       </td>
-        <td width="30%" align="center" style="padding-bottom:3rem">
+        <td width="25%" align="center" style="padding-bottom:3rem">
             <span><b>Django</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
         <br/><br/>
       </td>
     </tr>
     <tr valign="top">
-      <td width="30%" align="center" style="padding-bottom:3rem">
+      <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>Bash</b></span><br/><br/><br/>
          <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
          <br/><br/>
       </td>
-      <td width="30%" align="center" style="padding-bottom:3rem">
+      <td width="25%" align="center" style="padding-bottom:3rem">
         <span>𝗚𝗶𝘁</span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
         <br/><br/>
       </td>
-      <td width="30%" align="center" style="padding-bottom:3rem">
+      <td width="25%" align="center" style="padding-bottom:3rem">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         <br/><br/>
