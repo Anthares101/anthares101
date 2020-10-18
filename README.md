@@ -68,6 +68,10 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
 
 ![anthares101 Github Stats](https://github-readme-stats.vercel.app/api?username=anthares101&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=merko&bg_color=FFF&text_color=455a64&hide_title=true&line_height=40)
 
+## Badges ✨
+
+<a href="https://api.eu.badgr.io/public/assertions/xMXb3Xg-RIiXgai9oCkKJg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bmkmLnfDRrWWWuijD-lqRA/image"></a>
+
 <!--
 **anthares101/anthares101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
