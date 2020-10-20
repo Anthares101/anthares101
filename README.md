@@ -70,7 +70,7 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
 
 ## Badges ✨
 
-<a href="https://api.eu.badgr.io/public/assertions/xMXb3Xg-RIiXgai9oCkKJg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bmkmLnfDRrWWWuijD-lqRA/image"></a>
+<a href="https://api.eu.badgr.io/public/assertions/xMXb3Xg-RIiXgai9oCkKJg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bmkmLnfDRrWWWuijD-lqRA/image"></a> <a href="https://api.eu.badgr.io/public/assertions/PN-rM7AtSwSAJTsFmRF-IA"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/remote/assertion/cached/a5c10abefc0525f2cfe883cc082972a0.png"></a>
 
 <!--
 **anthares101/anthares101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
