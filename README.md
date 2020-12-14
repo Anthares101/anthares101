@@ -1,5 +1,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Anthares101-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Anthares101)](https://twitter.com/Anthares101)
 [![Linkedin Badge](https://img.shields.io/badge/angelherediaperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelherediaperez)](https://www.linkedin.com/in/angelherediaperez)
+![](https://komarev.com/ghpvc/?username=anthares101)
 
 <img height="100px" src="https://cdn.svgporn.com/logos/github-icon.svg">
 
