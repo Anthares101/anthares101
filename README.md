@@ -66,7 +66,8 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
 
 ## My Github Stats :cyclone:
 
-![anthares101 Github Stats](https://github-readme-stats.vercel.app/api?username=anthares101&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=merko&bg_color=FFF&text_color=455a64&hide_title=true&line_height=40)
+![anthares101 Github Stats](https://github-readme-stats.vercel.app/api?username=anthares101&show_icons=true&hide=issues&count_private=true&theme=dark&hide_title=true&line_height=30)
+[![anthares101 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthares101&theme=dark&layout=compact&langs_count=6)](https://github.com/anthares101/github-readme-stats)
 
 ## Badges ✨
 
