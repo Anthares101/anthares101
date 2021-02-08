@@ -57,8 +57,8 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>Docker</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
         <br/><br/>
       </td>
     </tr>
