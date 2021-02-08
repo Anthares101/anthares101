@@ -35,7 +35,7 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br/><br/><br/>
+        <span><b>𝗣𝘆𝘁𝗵𝗼𝗻</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         <br/><br/>
       </td>
@@ -52,12 +52,12 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗚𝗶𝘁</span><br/><br/><br/>
+        <span><b>𝗚𝗶𝘁</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>Docker</span><br/><br/><br/>
+        <span><b>Docker</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
         <br/><br/>
       </td>
