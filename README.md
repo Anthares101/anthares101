@@ -72,7 +72,7 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
 
 ## Badges ✨
 
-<a href="https://api.eu.badgr.io/public/assertions/xMXb3Xg-RIiXgai9oCkKJg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bmkmLnfDRrWWWuijD-lqRA/image"></a> <a href="https://api.eu.badgr.io/public/assertions/PN-rM7AtSwSAJTsFmRF-IA"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/remote/assertion/cached/a5c10abefc0525f2cfe883cc082972a0.png"></a> <a href="https://api.eu.badgr.io/public/assertions/4_hteJ-ZQt2z_SyDaepZ3g"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/remote/assertion/cached/e79be7c4950aa3a07bca848831b5f51f.png"></a>
+<a href="https://www.youracclaim.com/badges/e34708f5-6f39-4033-bc4c-2af21c1ec87e/public_url"><img width="120px" height="120px" src="https://images.youracclaim.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"></a> <a href="https://api.eu.badgr.io/public/assertions/xMXb3Xg-RIiXgai9oCkKJg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/bmkmLnfDRrWWWuijD-lqRA/image"></a> <a href="https://api.eu.badgr.io/public/assertions/PN-rM7AtSwSAJTsFmRF-IA"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/remote/assertion/cached/a5c10abefc0525f2cfe883cc082972a0.png"></a> <a href="https://api.eu.badgr.io/public/assertions/4_hteJ-ZQt2z_SyDaepZ3g"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/remote/assertion/cached/e79be7c4950aa3a07bca848831b5f51f.png"></a>
 
 <!--
 **anthares101/anthares101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
