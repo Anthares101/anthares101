@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/angelherediaperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelherediaperez)](https://www.linkedin.com/in/angelherediaperez)
 ![](https://komarev.com/ghpvc/?username=anthares101)
 
-<img height="100px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+<img height="200px" src="https://github.com/anthares101/anthares101/blob/477db9355644cdd47f0cc1a2e3c4e44c0be360f6/assets/Octocat.png">
 
 ## Hello all 👋
 I studied Computer Science Engineering at Córdoba University. I am a member of the Free Software Group, possibly the best thing I have done in my career. I love cybersecurity (im on it) and development, especially videogames (Right now im helping to develop [BFME Reforged](https://bfmereforged.org/)), although I am always open to other areas such as numerical analysis or AI.
