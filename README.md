@@ -18,30 +18,30 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Typescript</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+        <span><b>Sublime Text</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>React.js</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <span><b>Redhat</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redhat-icon.svg">
         <br/><br/>
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Next.js</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+        <span><b>Visual Studio Code</b></span><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>𝗣𝘆𝘁𝗵𝗼𝗻</b></span><br/><br/><br/>
+        <span><b>Python</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Django</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+        <span><b>Kubernetes</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
         <br/><br/>
       </td>
     </tr>
