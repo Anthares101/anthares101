@@ -71,6 +71,8 @@ I studied Computer Science Engineering at Córdoba University. I am a member of 
 [![anthares101 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthares101&theme=dark&layout=compact&langs_count=6)](https://github.com/anthares101/github-readme-stats)
 
 ## Badges ✨
+
+<a href="https://www.credly.com/badges/66c8ab2c-e2e2-4bc4-b845-32a5c100600c/public_url"><img width="120px" height="120px" src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png"></a>
 <a href="https://www.credly.com/badges/39682f2f-50f4-4347-aa45-f982cb3aa423/public_url"><img width="120px" height="120px" src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></a>
 <a href="https://www.credly.com/badges/e34708f5-6f39-4033-bc4c-2af21c1ec87e/public_url"><img width="120px" height="120px" src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"></a>
 <a href="https://www.credly.com/badges/15f78266-e239-4b9c-87ef-4e8ee3fd441f/public_url"><img width="120px" height="120px" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"></a>
