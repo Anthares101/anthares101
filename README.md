@@ -5,7 +5,7 @@
 <img height="200px" src="https://github.com/anthares101/anthares101/blob/477db9355644cdd47f0cc1a2e3c4e44c0be360f6/assets/Octocat.png">
 
 ## Hello all 👋
-I studied Computer Science Engineering at Córdoba University. I am a member of the Free Software Group, possibly the best thing I have done in my career. I like development, especially videogames (Right now im helping to develop [BFME Reforged](https://bfmereforged.org/)), although cybersecurity is my passion.
+I studied Computer Science Engineering at Córdoba University where I had the pleasure of being part of the Free Software Group, possibly the best thing I have done in my degree. I'm really passionate about cybersecurity and I love spending time with challenges in HackTheBox, playing CTFs and also playing with things related to infrastructure.
 
 ## What i use in my day to day :rocket:
 
