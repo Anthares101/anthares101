@@ -5,64 +5,6 @@
 ## Hello all 👋
 I studied Computer Science Engineering at Córdoba University where I had the pleasure of being part of the Free Software Group, possibly the best thing I have done in my degree. I'm really passionate about cybersecurity and I love spending time with challenges in HackTheBox, playing CTFs and also playing with things related to infrastructure.
 
-## What i use in my day to day :rocket:
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Linux</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Sublime Text</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Redhat</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redhat-icon.svg">
-        <br/><br/>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Visual Studio Code</b></span><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Python</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Kubernetes</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
-        <br/><br/>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Bash</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>𝗚𝗶𝘁</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Docker</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-        <br/><br/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## My Github Stats :cyclone:
 
 ![anthares101 Github Stats](https://github-readme-stats.vercel.app/api?username=anthares101&show_icons=true&hide=issues&count_private=true&theme=dark&hide_title=true&line_height=30)
