@@ -12,6 +12,9 @@ I studied Computer Science Engineering at Córdoba University where I had the pl
 
 ## Badges ✨
 
+<a href="https://certs.ine.com/039f9643-b4a9-49d1-87f4-59475459e9a4"><img width="120px" height="120px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79636546"></a>
+<a href="https://certs.ine.com/4b8d4f13-04fb-4651-809e-4945a2f2c24d"><img width="120px" height="120px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79636206"></a>
+<a href="https://www.credential.net/e72a49c1-351b-4b68-b353-78ce3a4a2563"><img width="120px" height="120px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/96218100"></a>
 <a href="https://www.credly.com/badges/66c8ab2c-e2e2-4bc4-b845-32a5c100600c/public_url"><img width="120px" height="120px" src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png"></a>
 <a href="https://www.credly.com/badges/39682f2f-50f4-4347-aa45-f982cb3aa423/public_url"><img width="120px" height="120px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 <a href="https://www.credly.com/badges/e34708f5-6f39-4033-bc4c-2af21c1ec87e/public_url"><img width="120px" height="120px" src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"></a>
