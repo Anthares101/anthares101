@@ -5,11 +5,6 @@
 ## Hello all 👋
 I studied Computer Science Engineering at Córdoba University where I had the pleasure of being part of the Free Software Group, possibly the best thing I have done in my degree. I'm really passionate about cybersecurity and I love spending time with challenges in HackTheBox, playing CTFs and also playing with things related to infrastructure.
 
-## My Github Stats :cyclone:
-
-![anthares101 Github Stats](https://github-readme-stats.vercel.app/api?username=anthares101&show_icons=true&hide=issues&count_private=true&theme=dark&hide_title=true&line_height=30)
-[![anthares101 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthares101&theme=dark&layout=compact&langs_count=6)](https://github.com/anthares101/github-readme-stats)
-
 ## Badges ✨
 
 <a href="https://certs.ine.com/039f9643-b4a9-49d1-87f4-59475459e9a4"><img width="120px" height="120px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79636546"></a>
